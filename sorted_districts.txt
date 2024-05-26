@@ -1,0 +1,16 @@
+Bethlehem District, Population = 20000
+BietJala, 20000
+
+Gaza District, Population = 70000
+Beit Hanoon, 50000
+Jabalia, 20000
+
+Hebron  District, Population = 140000
+ Dura , 100000
+ Halhul , 40000
+
+Jenin  District, Population = 130000
+ Jaba , 7000
+ Jenin , 92000
+ Yabad , 31000
+

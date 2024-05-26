@@ -1,0 +1,8 @@
+# ninja log v5
+15	253	7379496219635435	CMakeFiles/LinkedListProjectOne.dir/main.c.obj	71a88c04beb0827e
+254	463	7379496221579529	LinkedListProjectOne.exe	e5feb5832d9fd40a
+50	743	7379497172166282	build.ninja	eed7024e74030bf6
+96	441	7379497178511941	CMakeFiles/LinkedListProjectOne.dir/P1_1203022_MohammedSalem_Sec4.c.obj	d779602580880774
+443	668	7379497180880281	LinkedListProjectOne.exe	7314cb165e808d1b
+98	728	7379968284274310	CMakeFiles/LinkedListProjectOne.dir/P1_1203022_MohammedSalem_Sec4.c.obj	d779602580880774
+730	1326	7379968290136381	LinkedListProjectOne.exe	7314cb165e808d1b
